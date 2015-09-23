@@ -1,0 +1,1904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"static"
+			],
+			[
+				"Netw",
+				"Networking"
+			],
+			[
+				"Unity",
+				"UnityEngine"
+			],
+			[
+				"block",
+				"blockCoords"
+			],
+			[
+				"Block",
+				"BlockType"
+			],
+			[
+				"RpcRe",
+				"RpcReceiveBlockPlaced"
+			],
+			[
+				"chunkC",
+				"chunkController"
+			],
+			[
+				"Game",
+				"GameController"
+			],
+			[
+				"update",
+				"updateCounter"
+			],
+			[
+				"upda",
+				"updateCounter"
+			],
+			[
+				"dig",
+				"digDistSquared"
+			],
+			[
+				"blocks",
+				"blocksDefinition"
+			],
+			[
+				"Chat",
+				"ChatKeys"
+			],
+			[
+				"Net",
+				"NetworkConnection"
+			],
+			[
+				"net",
+				"networkInitialized"
+			],
+			[
+				"network",
+				"networkReceiver"
+			],
+			[
+				"Register",
+				"RegisterCallbacks"
+			],
+			[
+				"game",
+				"gameName"
+			],
+			[
+				"room",
+				"roomName"
+			],
+			[
+				"System",
+				"SystemMessage"
+			],
+			[
+				"chat",
+				"chatFocused"
+			],
+			[
+				"Init",
+				"InitializeRects"
+			],
+			[
+				"texutre",
+				"textureIDMap"
+			],
+			[
+				"blocktyp",
+				"blocktypeTextureMap"
+			],
+			[
+				"textures",
+				"texturesOnFaces"
+			],
+			[
+				"Texture",
+				"TextureFaceMap"
+			],
+			[
+				"Blok",
+				"BlockType"
+			],
+			[
+				"text",
+				"textureCount"
+			],
+			[
+				"Input",
+				"InputController"
+			],
+			[
+				"Hotb",
+				"Hotbar1"
+			],
+			[
+				"action",
+				"actionKeyBindings"
+			],
+			[
+				"OnHo",
+				"OnHotbar"
+			],
+			[
+				"Action",
+				"ActionKeys"
+			],
+			[
+				"sens",
+				"sensitivityY"
+			],
+			[
+				"Get",
+				"GetBlockCoord"
+			],
+			[
+				"look",
+				"lookSpeed"
+			],
+			[
+				"chunk",
+				"chunkCoord"
+			],
+			[
+				"smoo",
+				"smoothingVector"
+			],
+			[
+				"acti",
+				"activeChunks"
+			],
+			[
+				"updat",
+				"updatingChunks"
+			],
+			[
+				"offs",
+				"offsetScale"
+			],
+			[
+				"Chu",
+				"CHUNK_SIZE"
+			],
+			[
+				"Random",
+				"RandomAirGen"
+			],
+			[
+				"Chunk",
+				"ChunkController"
+			],
+			[
+				"Mesh",
+				"MeshCollider"
+			],
+			[
+				"Chuk",
+				"ChunkController"
+			],
+			[
+				"Blc",
+				"BlockType"
+			],
+			[
+				"cursor",
+				"cursorLocked"
+			],
+			[
+				"camera",
+				"cameraKeyBindings"
+			],
+			[
+				"Camera",
+				"CameraKeys"
+			],
+			[
+				"Move",
+				"MovementKeys"
+			],
+			[
+				"last",
+				"lastSavedFilePath"
+			],
+			[
+				"Voxel",
+				"VoxelVolumeData"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"Sys",
+				"SystemException"
+			],
+			[
+				"vData",
+				"vDataBackupDirectory"
+			],
+			[
+				"Begin",
+				"BeginVertical"
+			],
+			[
+				"data",
+				"dataPath"
+			],
+			[
+				"val",
+				"validic"
+			],
+			[
+				"vali",
+				"validicID"
+			],
+			[
+				"validi",
+				"validicAPIKey"
+			],
+			[
+				"board",
+				"boardHolder"
+			],
+			[
+				"Generate",
+				"GenerateEdgeMap"
+			],
+			[
+				"Ad",
+				"Adjacency"
+			],
+			[
+				"edge",
+				"edgeMap"
+			],
+			[
+				"Int",
+				"IntCoord"
+			],
+			[
+				"in",
+				"IntCoord"
+			],
+			[
+				"site",
+				"site2"
+			],
+			[
+				"Con",
+				"ContainsKey"
+			],
+			[
+				"Coor",
+				"IntCoord"
+			],
+			[
+				"voro",
+				"voronoiEdges"
+			],
+			[
+				"region",
+				"regionBorders"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"map",
+				"mapWidth"
+			],
+			[
+				"rando",
+				"randPoints"
+			],
+			[
+				"Glyph",
+				"GlyphType"
+			],
+			[
+				"tier",
+				"tier_in"
+			],
+			[
+				"name",
+				"name_in"
+			],
+			[
+				"Poti",
+				"PotionOfExperience"
+			],
+			[
+				"Alc",
+				"AlchemistsToolkit"
+			],
+			[
+				"Toxi",
+				"ToxicImbued"
+			],
+			[
+				"Thief",
+				"ThiefFleeing"
+			],
+			[
+				"Mast",
+				"MasterThievesArmband"
+			],
+			[
+				"item",
+				"itemDropChances"
+			],
+			[
+				"drop",
+				"dropChance"
+			],
+			[
+				"Ring",
+				"RingOfWealth"
+			],
+			[
+				"CHal",
+				"ChaliceOfBlood"
+			],
+			[
+				"Cloak",
+				"CloakOfShadows"
+			],
+			[
+				"Horn",
+				"HornOfPlenty"
+			],
+			[
+				"Scrol",
+				"ScrollOfMagicMapping"
+			],
+			[
+				"GetImm",
+				"GetImmunities"
+			],
+			[
+				"glyph",
+				"glyphTypes"
+			],
+			[
+				"Scroll",
+				"ScrollOfRecharging"
+			],
+			[
+				"Pos",
+				"PotionOfStrength"
+			],
+			[
+				"TimeK",
+				"TimekeepersHourglass"
+			],
+			[
+				"War",
+				"Warrior"
+			],
+			[
+				"sub",
+				"SubClass"
+			],
+			[
+				"eq",
+				"eq_items"
+			],
+			[
+				"IsAssignab",
+				"IsAssignableFrom"
+			],
+			[
+				"IsAssign",
+				"IsAssignableFrom"
+			],
+			[
+				"SubCl",
+				"SubClassDetail"
+			],
+			[
+				"Sub",
+				"SubClassDetail"
+			],
+			[
+				"GetBu",
+				"GetBuffs"
+			],
+			[
+				"Objec",
+				"ObjectType"
+			],
+			[
+				"Add",
+				"AddObjectInstance"
+			],
+			[
+				"d",
+				"dimensions"
+			],
+			[
+				"Figt",
+				"FighterStats"
+			],
+			[
+				"Figh",
+				"FighterStats"
+			],
+			[
+				"is",
+				"isPlayer1"
+			],
+			[
+				"cur",
+				"currentHealth"
+			],
+			[
+				"Kic",
+				"KickAttack"
+			],
+			[
+				"curr",
+				"currentFighter"
+			],
+			[
+				"femal",
+				"startingFemale_p1"
+			],
+			[
+				"female",
+				"femaleFighter"
+			],
+			[
+				"p1",
+				"p1TeamDefinition"
+			],
+			[
+				"fema",
+				"femaleActive"
+			],
+			[
+				"current",
+				"currentHealth"
+			],
+			[
+				"Comba",
+				"CombatRoundManager"
+			],
+			[
+				"OnMele",
+				"OnMeleeRangeEnter"
+			],
+			[
+				"stepbackwar",
+				"stepbackward2"
+			],
+			[
+				"Combat",
+				"CombatRoundManager"
+			],
+			[
+				"Step",
+				"StepForward"
+			],
+			[
+				"pl",
+				"player1OnOffense"
+			],
+			[
+				"Def",
+				"Defend"
+			],
+			[
+				"BlockMid",
+				"BlockMidHit"
+			],
+			[
+				"player",
+				"player1OnOffense"
+			],
+			[
+				"player1",
+				"player1OnOffense"
+			],
+			[
+				"Act",
+				"ActionType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Scripts/Network/NetworkBus.cs",
+			"settings":
+			{
+				"buffer_size": 3217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/Procedural/ChunkController.cs",
+			"settings":
+			{
+				"buffer_size": 10540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/Procedural/Chunk.cs",
+			"settings":
+			{
+				"buffer_size": 2370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/Gameplay/ChatUI.cs",
+			"settings":
+			{
+				"buffer_size": 4746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/Procedural/ChunkRenderer.cs",
+			"settings":
+			{
+				"buffer_size": 22743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/Settings.cs",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scripts/GameController.cs",
+			"settings":
+			{
+				"buffer_size": 4368,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cjcurrie/WTHN-Game/Assets",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/GameServer",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Network",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural"
+	],
+	"file_history":
+	[
+		"/Users/cjcurrie/WTHN-Game/Assets/unityScripts.sublime-workspace",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/PlayerActions.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/Block.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/GameController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Network/NetworkController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/Chunk.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Util.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/CameraController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/ChatUI.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/ChunkRenderer.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/InputController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Network/NetworkBus.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/ChunkController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/PlayerMovement.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/Effects/Text3D.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Network/NetworkReceiver.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Network/NetworkChat.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Plugins/pomelo-dotnetClient/src/protocol/Protocol.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Plugins/pomelo-dotnetClient/src/protocol/HandShakeService.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Plugins/pomelo-dotnetClient/src/client/PomeloClient.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Plugins/pomelo-dotnetClient/src/transport/Transporter.cs",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/config/servers.json",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/config/dictionary.json",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/config/clientProtos.json",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/config/adminServer.json",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/config/master.json",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/app.js",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/app/component/helloWorld.js",
+		"/Users/cjcurrie/WTHN-Game/server/game-server/app/servers/connector/handler/entryHandler.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app/servers/gate/handler/gateHandler.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app/servers/time/remote/timeRemote.js",
+		"/Users/cjcurrie/WTHN-Game/GameServer/game-server/app/servers/gate/handler/gateHandler.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app/util/dispatcher.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/config/servers.json",
+		"/Users/cjcurrie/WTHN-Game/GameServer/game-server/config/master.json",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/config/master.json",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/config/log4js.json",
+		"/Users/cjcurrie/WTHN-Game/GameServer/npm-install.sh",
+		"/Users/cjcurrie/WTHN-Game/GameServer/stop.sh",
+		"/Users/cjcurrie/WTHN-Game/GameServer/start.sh",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/README.md",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app/servers/chat/handler/chatHandler.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app/servers/connector/handler/entryHandler.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/game-server/app.js",
+		"/Users/cjcurrie/Desktop/pomeloTest/chatofpomelo-websocket/web-server/app.js",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/PlayerUI.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Editor/VoxelVolumeEditor/VoxelVolumeCreatorEditor.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/SimplexNoise.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/Generator.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/VoxelVolume/VoxelVolumeAssembler.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/Settings.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/SimplexNoiseGenerator.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Procedural/Noise.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/VoxelVolume/VoxelVolumeCreator.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/GameController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/Player/CameraController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/Player/InputController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/Player/PlayerMovement.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/Gameplay/User/InputController.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/VoxelVolume/VoxelVolumeBinaryHandler.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Editor/VoxelVolumeEditor/VoxelColorPaletteWindow.cs",
+		"/Users/cjcurrie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cjcurrie/Google Drive/Writing/My Philosophy Treatise/Philosophy treatise outline copy.rft",
+		"/Users/cjcurrie/WTHN-Game/Assets/Scripts/VoxelVolume/VoxelVolumeXmlHandler.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Editor/VoxelVolumeEditor/VoxelVolumeWriter.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/Resources/VoxelData/goober.bytes",
+		"/Users/cjcurrie/WTHN-Game/Assets/Resources/VoxelData/goob2.bytes",
+		"/Users/cjcurrie/WTHN-Game/Assets/Resources/TexturePacks/TextureImporter.cs",
+		"/Users/cjcurrie/WTHN-Game/Assets/VoxelEditorMat.mat",
+		"/Users/cjcurrie/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cjcurrie/WTHN-Game/Assets/Voxel Editor Prefab.prefab",
+		"/Users/cjcurrie/Voxel Editor/Assets/Resources/TexturePacks/TextureImporter.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Scripts/VoxelVolume/VoxelVolumeCreator.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelVolumeCreatorEditor.cs",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/server.js",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/validicInterface.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/js/foodSearchController.js",
+		"/Applications/MAMP/htdocs/validicInterface.php",
+		"/Users/cjcurrie/Voxel Editor/Assets/Scripts/VoxelVolume/VoxelVolumeBinaryHandler.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/images/colorWheel_blackBG.jpg",
+		"/Users/cjcurrie/Voxel Editor/Assets/scripts.sublime-project",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelVolumeXmlHandler.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelColorPaletteWindow.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelVolumeWriter.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelVolumeReader.cs",
+		"/Users/cjcurrie/Voxel Editor/Assets/Editor/VoxelVolumeEditor/VoxelVolumeAssemblerEditor.cs",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/nutritionixInterface.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/humanAPIInterface.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/html/validic.html",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/fitbitInterface.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/DBInterface.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/fitbitphp.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/lib/Fitbit/Api.php",
+		"/private/etc/php.ini",
+		"/usr/include/php/ZendFramework-2.4.3/INSTALL.md",
+		"/Users/cjcurrie/Desktop/ZendFramework-2.4.3/INSTALL.md",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/lib/oAuth/OAuthRequest.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/lib/oAuth/OAuthStore.php",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/php/lib/oAuth/OAuthSession.php",
+		"/Users/cjcurrie/Desktop/completeAuthorization.php",
+		"/Users/cjcurrie/Desktop/treeJSONexport.js",
+		"/Users/cjcurrie/Desktop/treeJSONexport.json",
+		"/Users/cjcurrie/Germs/Assets/Scripts/WorldMap/Map.cs",
+		"/Users/cjcurrie/Germs/Assets/Scripts/WorldMap/MapPainter.cs",
+		"/Users/cjcurrie/square 2d procedural world gen/Assets/Scripts/Loader.cs",
+		"/Users/cjcurrie/WTHN/docs/idea for questionnaire format.txt",
+		"/Users/cjcurrie/Germs/Assets/Scripts/Managers/GameManager.cs",
+		"/Users/cjcurrie/Germs/Assets/Scripts/Managers/ZoneManager.cs",
+		"/Users/cjcurrie/Germs/Assets/Scripts/Utils/Hex.cs",
+		"/Users/cjcurrie/WTHN/DeviceIntegration/start.sh",
+		"/Users/cjcurrie/PhpstormProjects/DeviceIntegration/phpMyAdmin/setup/index.php",
+		"/Users/cjcurrie/PhpstormProjects/DeviceIntegration/phpMyAdmin/index.php",
+		"/Users/cjcurrie/PhpstormProjects/DeviceIntegration/package.json",
+		"/Users/cjcurrie/Desktop/connect-master/index.js",
+		"/Users/cjcurrie/PhpstormProjects/Learning/nodeServer.js",
+		"/Users/cjcurrie/PhpstormProjects/Learning/startServer copy.sh",
+		"/usr/local/lib/node_modules/learnyounode/docs/bl.html",
+		"/Users/cjcurrie/Desktop/HexgridUtilities V 6.3 Source/HexGridExample2/HexGridExample.cs",
+		"/Users/cjcurrie/Germs/Assets/Scripts/Utils/Direction.cs",
+		"/Users/cjcurrie/Germs/Assets/Scripts/Managers/BoardManager.cs",
+		"/Users/cjcurrie/Downloads/Voronoi CSharp/Voronoi2/MainForm.cs",
+		"/Users/cjcurrie/Roguelike/Assets/Scripts/IslandPainter.cs",
+		"/Users/cjcurrie/Roguelike/Assets/Scripts/MapViewCamera.cs",
+		"/Users/cjcurrie/Roguelike/Assets/Scripts/PixelPainter.cs",
+		"/Users/cjcurrie/Roguelike/Assets/Scripts/Utils/Voronoi/Program.cs",
+		"/Users/cjcurrie/Roguelike/Assets/Scripts/TileType.cs",
+		"/Users/cjcurrie/square 2d procedural world gen/Assets/Scripts/MapRenderer.cs",
+		"/Applications/Unity/Documentation/en/Manual/class-SpriteRenderer.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"tile.x",
+			"",
+			"/Users/cjcurrie/square\\ 2d\\ procedural\\ world\\ gen/Assets/Editor",
+			"/Users/cjcurrie/Desktop/PD-classes-master",
+			"/Users/cjcurrie/Desktop/shattered-pixel-dungeon-master/src/com/shatteredpixel/shatteredpixeldungeon",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"worldHeight",
+			"position",
+			"onnetworkinitialize",
+			"texturefacemap",
+			"blocksDefinition",
+			"BlockDefinition",
+			"Vector3.up",
+			"networ",
+			"cursorLocked",
+			"readBody",
+			"messageProcesser",
+			"processMessage",
+			"processHandshakeData",
+			"invoke",
+			"receiving",
+			"start",
+			"start(",
+			"start",
+			"start(",
+			"receive",
+			"endReceive",
+			"endReceive(",
+			"processBytes(",
+			"readBody(",
+			"messageProcesser",
+			"processMessage",
+			"processHandshakeData",
+			"invokeCallback",
+			"client initialized",
+			"axis",
+			"AddVoxel",
+			"Queue",
+			"margin",
+			"c",
+			"altasUVs",
+			"counter",
+			"loadbac",
+			"material",
+			"LogWarning",
+			"gameObject",
+			"NBD",
+			"PreLoad",
+			"create a new",
+			"NBD",
+			"NoBigDeal",
+			"NBD",
+			"NoBigDeal",
+			".bytes",
+			"application.data",
+			"AssignBackupPaths",
+			"PHP_AUTOCONF",
+			"map",
+			"GetHashCode",
+			"pixelData",
+			"Edge",
+			"EdgeLine",
+			"Edge",
+			"neighbors",
+			"map.",
+			"RelaxVoronoi",
+			"bottomsite",
+			"minDistanceBetweenSites",
+			"offset.X",
+			"offset.Y",
+			"tile.Y",
+			"tile.X",
+			"Halfedge",
+			"class GraphEdge",
+			"GraphEdge",
+			"Error_Margin_Between_Sites",
+			"editing not supported",
+			"public",
+			"Searching",
+			"editing not supported",
+			"getPoints",
+			"updateQuickslot",
+			"seedsToPotion",
+			"getSimpleName",
+			"abstract",
+			"switch",
+			"Map",
+			"map",
+			"hitsToKnow",
+			"collect",
+			"() ",
+			"values",
+			"itemComparator",
+			"String",
+			"boolean",
+			" price(",
+			"chances",
+			"boolean",
+			"super",
+			"ArrayList",
+			"String",
+			"final ",
+			"String",
+			"final ",
+			"boolean",
+			"String",
+			"final ",
+			"boolean",
+			"String",
+			"final ",
+			"boolean",
+			"newInstance",
+			": new",
+			"name",
+			"boolean",
+			"class Resistance",
+			"final ",
+			"boolean",
+			"String",
+			"TXT_CARRIES",
+			"boolean",
+			"String",
+			"final ",
+			"MobType",
+			"enum",
+			"new Fleeing(",
+			"loot",
+			"boolean",
+			"String",
+			" act()",
+			"act()",
+			" bool act()",
+			" act()",
+			"act()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"List",
+			"padding",
+			"chunk",
+			"atlasUVs",
+			"VC",
+			"VCE",
+			"m",
+			"",
+			"offset.x",
+			"offset.y",
+			"tile.y",
+			"tile.x",
+			"string",
+			"bool",
+			" Price(",
+			"bool",
+			"base",
+			"List",
+			"string",
+			"",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"",
+			"final",
+			"bool",
+			"string",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			" _act()",
+			"Add(",
+			"List",
+			"string",
+			"",
+			"string",
+			"List",
+			"",
+			"bool",
+			"List",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"string",
+			"",
+			"string",
+			"List",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"List",
+			"string",
+			"",
+			"MyTerrain",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"List",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"List",
+			"string",
+			"",
+			"LockedExit",
+			"LockedDoor",
+			"TerrainType",
+			"bool",
+			"List",
+			"string",
+			"",
+			"string",
+			"List",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"string",
+			"",
+			"ReadyScene()",
+			"bool",
+			"List",
+			"string",
+			"",
+			"bool",
+			"string",
+			"bool",
+			"",
+			"bool",
+			"string",
+			"",
+			"bool",
+			"List",
+			"string",
+			"",
+			"List"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/cjcurrie/WTHN-Game/Assets"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Scripts/Network/NetworkBus.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Scripts/Procedural/ChunkController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4597,
+								4605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Scripts/Procedural/Chunk.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1905,
+								1905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 831.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Scripts/Gameplay/ChatUI.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 163.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Scripts/Procedural/ChunkRenderer.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Scripts/Settings.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Scripts/GameController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2520,
+								2520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1794.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gamec",
+				"Scripts/GameController.cs"
+			],
+			[
+				"chatui",
+				"Scripts/Gameplay/ChatUI.cs"
+			],
+			[
+				"chunk",
+				"Scripts/Procedural/Chunk.cs"
+			],
+			[
+				"sett",
+				"Scripts/Settings.cs"
+			],
+			[
+				"camera",
+				"Scripts/Gameplay/CameraController.cs"
+			],
+			[
+				"network",
+				"Scripts/Network/NetworkController.cs"
+			],
+			[
+				"util",
+				"Scripts/Util.cs"
+			],
+			[
+				"chunkren",
+				"Scripts/Procedural/ChunkRenderer.cs"
+			],
+			[
+				"uti",
+				"Scripts/Util.cs"
+			],
+			[
+				"block",
+				"Scripts/Procedural/Block.cs"
+			],
+			[
+				"chunkrend",
+				"Scripts/Procedural/ChunkRenderer.cs"
+			],
+			[
+				"networ",
+				"Scripts/Network/NetworkBus.cs"
+			],
+			[
+				"blok",
+				"Scripts/Procedural/Block.cs"
+			],
+			[
+				"input",
+				"Scripts/Gameplay/InputController.cs"
+			],
+			[
+				"playerac",
+				"Scripts/Gameplay/PlayerActions.cs"
+			],
+			[
+				"playermoce",
+				"Scripts/Gameplay/PlayerMovement.cs"
+			],
+			[
+				"text",
+				"Scripts/Gameplay/Effects/Text3D.cs"
+			],
+			[
+				"game",
+				"Scripts/GameController.cs"
+			],
+			[
+				"plact",
+				"Scripts/Gameplay/PlayerActions.cs"
+			],
+			[
+				"chat",
+				"Scripts/Gameplay/ChatUI.cs"
+			],
+			[
+				"chunkc",
+				"Scripts/Procedural/ChunkController.cs"
+			],
+			[
+				"camer",
+				"Scripts/Gameplay/CameraController.cs"
+			],
+			[
+				"chun",
+				"Scripts/Procedural/Chunk.cs"
+			],
+			[
+				"inpu",
+				"Scripts/Gameplay/InputController.cs"
+			],
+			[
+				"chunkred",
+				"Scripts/Procedural/ChunkRenderer.cs"
+			],
+			[
+				"set",
+				"Scripts/Gameplay/Settings.cs"
+			],
+			[
+				"assem",
+				"Scripts/VoxelVolume/VoxelVolumeAssembler.cs"
+			],
+			[
+				"color",
+				"Editor/VoxelVolumeEditor/VoxelColorPaletteWindow.cs"
+			],
+			[
+				"voxelvolume",
+				"Editor/VoxelVolumeEditor/VoxelVolumeWriter.cs"
+			],
+			[
+				"voronoi",
+				"Utils/Voronoi/VoronoiElements.cs"
+			],
+			[
+				"voro",
+				"Utils/Voronoi/Voronoi.cs"
+			],
+			[
+				"artic",
+				"Items/Artifacts/Artifact.cs"
+			],
+			[
+				"buff",
+				"Actors/Buffs/Buff.cs"
+			],
+			[
+				"myran",
+				"Utils/MyRandom.cs"
+			],
+			[
+				"hero",
+				"Actors/Hero/Hero.cs"
+			],
+			[
+				"equi",
+				"Items/Weapon/EquipableItem.cs"
+			],
+			[
+				"item",
+				"Items/Item.cs"
+			],
+			[
+				"glyph",
+				"Items/Armor/Glyphs/Glyph.cs"
+			],
+			[
+				"bund",
+				"Bundle.cs"
+			],
+			[
+				"missil",
+				"Items/Weapon/Missile/MissileWeapon.cs"
+			],
+			[
+				"weap",
+				"Items/Weapon/Weapon.cs"
+			],
+			[
+				"bundle",
+				"Bundle.cs"
+			],
+			[
+				"dungo",
+				"Levels/Dungeon.cs"
+			],
+			[
+				"potion",
+				"Items/Potions/Potion.cs"
+			],
+			[
+				"plant",
+				"Plants/Plant.cs"
+			],
+			[
+				"seed",
+				"Plants/Seed.cs"
+			],
+			[
+				"itemg",
+				"Items/ItemGenerator.cs"
+			],
+			[
+				"level",
+				"Levels/Level.cs"
+			],
+			[
+				"terrain",
+				"Levels/MyTerrain.cs"
+			],
+			[
+				"best",
+				"Actors/Mobs/Bestiary.cs"
+			],
+			[
+				"gizmo",
+				"Utils/Gizmo.cs"
+			],
+			[
+				"gold",
+				"Items/Gold.cs"
+			],
+			[
+				"char",
+				"Actors/Char.cs"
+			],
+			[
+				"itemgener",
+				"Items/ItemGenerator.cs"
+			],
+			[
+				"dungeon",
+				"Levels/Dungeon.cs"
+			],
+			[
+				"bundl",
+				"Bundle.cs"
+			],
+			[
+				"mob",
+				"Actors/Mobs/Mob.cs"
+			],
+			[
+				"actor",
+				"Actors/Actor.cs"
+			],
+			[
+				"armor",
+				"Items/Armor/Armor.cs"
+			],
+			[
+				"cape",
+				"Items/Artifacts/CapeOfThorns.cs"
+			],
+			[
+				"ring",
+				"Items/Rings/Ring.cs"
+			],
+			[
+				"hersub",
+				"Actors/Hero/HeroSubClass.cs"
+			],
+			[
+				"skele",
+				"Items/Keys/SkeletonKey.cs"
+			],
+			[
+				"arti",
+				"Items/Artifacts/Artifact.cs"
+			],
+			[
+				"tali",
+				"Items/Artifacts/TalismanOfForesight.cs"
+			],
+			[
+				"myt",
+				"Levels/MyTerrain.cs"
+			],
+			[
+				"talis",
+				"Items/Artifacts/TalismanOfForesight.cs"
+			],
+			[
+				"belong",
+				"Actors/Hero/Belongings.cs"
+			],
+			[
+				"heap",
+				"Heap.cs"
+			],
+			[
+				"invisib",
+				"Actors/Buffs/Invisible.cs"
+			],
+			[
+				"heroact",
+				"Actors/Hero/HeroAction.cs"
+			],
+			[
+				"blob",
+				"Actors/Blobs/Blob.cs"
+			],
+			[
+				"npc",
+				"Actors/Mobs/NPC.cs"
+			],
+			[
+				"weapo",
+				"Items/Weapon/Weapon.cs"
+			],
+			[
+				"wea",
+				"Items/Weapon/Weapon.cs"
+			],
+			[
+				"subcla",
+				"Actors/Hero/HeroSubClass.cs"
+			],
+			[
+				"bundla",
+				"Bundlable.cs"
+			],
+			[
+				"myrand",
+				"Utils/MyRandom.cs"
+			],
+			[
+				"dungeo",
+				"Levels/Dungeon.cs"
+			],
+			[
+				"herosu",
+				"Actors/Hero/HeroSubClass.cs"
+			],
+			[
+				"dung",
+				"Levels/Dungeon.cs"
+			],
+			[
+				"belon",
+				"Actors/Hero/Belongings.cs"
+			],
+			[
+				"",
+				"Actors/Buffs/Buff.cs"
+			],
+			[
+				"buf",
+				"Actors/Buffs/Buff.cs"
+			],
+			[
+				"herocla",
+				"Actors/Hero/HeroClass.cs"
+			],
+			[
+				"ringof",
+				"Items/Rings/RingOfMight.cs"
+			],
+			[
+				"equip",
+				"Items/Weapon/EquipableItem.cs"
+			],
+			[
+				"wand",
+				"Items/Wands/Wand.cs"
+			],
+			[
+				"scroll",
+				"Items/Scrolls/Scroll.cs"
+			],
+			[
+				"heros",
+				"Actors/Hero/HeroSubClass.cs"
+			],
+			[
+				"kindof",
+				"Items/Weapon/KindOfWeapon.cs"
+			],
+			[
+				"itemstatushandler",
+				"Items/ItemStatusHandler.cs"
+			],
+			[
+				"bag",
+				"Items/Bag.cs"
+			],
+			[
+				"awepon",
+				"Items/Weapon/Weapon.cs"
+			],
+			[
+				"weao",
+				"Items/Weapon/Weapon.cs"
+			],
+			[
+				"bun",
+				"Bundlable.cs"
+			],
+			[
+				"blo",
+				"Actors/Blobs/Blob.cs"
+			],
+			[
+				"act",
+				"Actors/Actor.cs"
+			],
+			[
+				"dunge",
+				"Levels/Dungeon.cs"
+			],
+			[
+				"p",
+				"Plants/Plant.cs"
+			],
+			[
+				"plan",
+				"Plants.meta"
+			],
+			[
+				"kind",
+				"Items/Weapon/KindOfWeapon.cs"
+			],
+			[
+				"voxelvolumeeditor",
+				"Assets/Editor/VoxelVolumeEditor/VoxelVolumeCreatorEditor.cs"
+			],
+			[
+				"xmlhan",
+				"Assets/Editor/VoxelVolumeEditor/VoxelVolumeXmlHandler.cs"
+			],
+			[
+				"xmlha",
+				"Assets/Editor/VoxelVolumeEditor/VoxelVolumeXmlHandler.cs"
+			],
+			[
+				"voxelvolumewr",
+				"Assets/Editor/VoxelVolumeEditor/VoxelVolumeWriter.cs"
+			],
+			[
+				"voxelvolass",
+				"Assets/Scripts/VoxelEditor/VoxelVolumeAssembler.cs"
+			],
+			[
+				"voxeldata",
+				"Assets/Scripts/VoxelEditor/VoxelVolumeData.cs"
+			],
+			[
+				"init",
+				"Assets/Scripts/Initializer.cs"
+			],
+			[
+				"voxel",
+				"Assets/VoxelVolumeCreator/VoxelVolumeData.cs"
+			],
+			[
+				"load",
+				"loader/Loader.ts"
+			],
+			[
+				"anim",
+				"AnimationController.cs"
+			],
+			[
+				"initi",
+				"Initializer.cs"
+			],
+			[
+				"titel",
+				"TitleScreenDisplay.cs"
+			],
+			[
+				"tea",
+				"TeamSelect.cs"
+			],
+			[
+				"team",
+				"TeamSelect.cs"
+			],
+			[
+				"card",
+				"CombatRoundManager.cs"
+			],
+			[
+				"anima",
+				"AnimationController.cs"
+			],
+			[
+				"rect",
+				"RectCache.cs"
+			],
+			[
+				"comba",
+				"CombatUI.cs"
+			],
+			[
+				"bgm",
+				"BGM.cs"
+			],
+			[
+				"ga",
+				"GameManager.cs"
+			],
+			[
+				"combat",
+				"CombatUI.cs"
+			],
+			[
+				"annou",
+				"Announcer.cs"
+			],
+			[
+				"ann",
+				"Announcer.cs"
+			],
+			[
+				"global",
+				"Global.cs"
+			],
+			[
+				"gm",
+				"GameManager.cs"
+			],
+			[
+				"globa",
+				"Global.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 107.0,
+		"last_filter": "Edge",
+		"selected_items":
+		[
+			[
+				"Edge",
+				"Edge"
+			],
+			[
+				"voron",
+				"Voronoi"
+			],
+			[
+				"CombatAc",
+				"CombatAction"
+			],
+			[
+				"combat",
+				"CombatAction"
+			],
+			[
+				"teamde",
+				"TeamDefinition"
+			],
+			[
+				"combatac",
+				"CombatAction"
+			],
+			[
+				"new",
+				"OnNewRound"
+			],
+			[
+				"begin",
+				"BeginCombat"
+			],
+			[
+				"initia",
+				"InitializeCombat"
+			],
+			[
+				"beginf",
+				"BeginFight"
+			],
+			[
+				"Team",
+				"Team"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
